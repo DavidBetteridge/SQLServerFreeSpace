@@ -22,9 +22,9 @@ namespace DisplayFreeSpace
 
         private void Collect_Load(object sender, EventArgs e)
         {
-            this.txtDatabaseName.Text = "Bauer";
-            this.txtDatabaseServerName.Text = ".";
-            this.txtStorageFile.Text = @"c:\temp\aaa.bin";
+            this.txtDatabaseName.Text = "S2C1_UKPortal";
+            this.txtDatabaseServerName.Text = "HD08";
+            this.txtStorageFile.Text = @"c:\temp\now.bin";
             this.lblProgress.Visible = false;
         }
 
