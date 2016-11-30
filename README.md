@@ -2,7 +2,7 @@
 
 This tool allows you to visualise the free space in a SQL server database.
 
-![Graph](graph.jpg "Graph")
+![Graph](graph.JPG "Graph")
 
 First run the collect data option.  This will examine each of the GAM pages in your database to determine the number of unallocated extents.  This information will then be written to a binary file using protobuf.
 
